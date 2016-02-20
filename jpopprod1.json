@@ -1,0 +1,10 @@
+{
+  "log": ["*"],
+  "databases": {
+    "db": {
+      "server": "http://159.203.71.185:8091/",
+      "bucket": "default",
+      "users": { "GUEST": { "disabled": false, "admin_channels": ["*"] } }
+    }
+  }
+}
